@@ -9,7 +9,7 @@ public class Operators {
    Note 2: double + int ==> double olur
    Cunku ; java da matematiksel islemlerde farkli data type'lari kullanilirsa sonuc her zaman buyuk data type'inda olur
 
-   2) java'da "Logical Operator" lar vardir. AND ve OR islemleri Logical operatorlardir
+   2) javada "Logical Operator" lar vardir. AND ve OR islemleri Logical operatorlardir
        i) AND (&&) isleminde true alabilmek icin her sey true olmalidir.
           AND islemi "perfectionist" tir
           AND isleminde bir tane  false sonucu false yapar

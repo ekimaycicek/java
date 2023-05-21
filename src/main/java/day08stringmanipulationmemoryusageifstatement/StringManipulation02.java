@@ -10,6 +10,7 @@ public class StringManipulation02 {
 
         String a = "abcdefghei@hotmail.com";
 
+
         int startingIndex = a.indexOf('@') + 1;
         int endingIndex = a.indexOf('.');
         String companyName = a.substring(startingIndex, endingIndex);

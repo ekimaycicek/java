@@ -12,7 +12,6 @@ public class Concatination {
         System.out.println(s + a * b);//elma110
         System.out.println(a + b + s  );//21elma
         System.out.println(a + s + b);//10elma11
-
         //Java da "+" sembolu iki sayi arasinda kullanilirsa toplama islemi olur
         //Java da "+" sembolu iki string arasinda veya bir string ve bir sayi arasinda kullanilirsa "concatination"  islemi olur
         //"concatination" birlestirme yapar

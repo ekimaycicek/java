@@ -20,6 +20,7 @@ public class StringManipulation01 {
         boolean result3 = t.replace(" ", "").length() == 0;
         System.out.println(result3);
 
+
         //2. yol
         boolean result4 = t.replace(" ", "").isEmpty();
         System.out.println(result4);
